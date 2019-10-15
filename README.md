@@ -9,7 +9,7 @@ A simple python program that allows you to download songs from youtube both as a
                     2) redhat based : yum install youtube-dl
                     3) pip install -U youtube-dl
 
-###Using the Script
+### Using the Script
 
 #### 1) Downloading songs as video :
           Run the script using terminal and add the name of the song to be downloaded 
